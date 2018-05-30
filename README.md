@@ -1,1 +1,2 @@
-# django1
+＃django1
+这是根据django1.11的官方文档写的Django的后端
